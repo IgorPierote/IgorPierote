@@ -39,7 +39,7 @@ STUDYING
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,ts,py,cs,cpp,dart,gradle,kotlin,swift,nodejs,react,sqlite" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,ts,py,cs,cpp,dart,gradle,kotlin,swift,nodejs,react" />
   </a>
 </p>
 
