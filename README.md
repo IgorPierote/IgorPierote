@@ -63,7 +63,10 @@ TOOLS
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT</b></p> 
 <img height="80" src="https://media.tenor.com/mQt6aO1o8gAAAAAj/sonic-hedgehog.gif"/>
-<p align="center"><img align="center" src="" /></p> 
+<p align="center">
+  <img align="center"
+       src="https://komarev.com/ghpvc/?username=IgorPierote&label=Profile%20Views&color=4169E1&style=for-the-badge" />
+</p>
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
