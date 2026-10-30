@@ -18,10 +18,13 @@
 </p>
 
 <div align="center">
-  LINK'S
-<img height="110" src="https://i.pinimg.com/originals/d4/b0/f6/d4b0f62f8936a540084d84a0bcd7fe27.gif"/>
-  
+  LINK'S  
 </div>
+
+<div align="center">
+<img height="110" src="https://i.pinimg.com/originals/d4/b0/f6/d4b0f62f8936a540084d84a0bcd7fe27.gif"/>
+</div>
+
 
 <div align="center">
   <a href="https://www.instagram.com/apenas_belmont" target="_blank">
