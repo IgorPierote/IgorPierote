@@ -16,11 +16,11 @@
 <p align="center">
   <img src="https://github-act-graph.rodriaum.com/graph?username=IgorPierote&bg_color=0d1117&color=4169e1&line=191970&point=4169e1&area=true&hide_border=true" alt="Gráfico de atividade do GitHub"/>
 </p>
-<div align="center"> 
-<img height="110" src="https://i.pinimg.com/originals/d4/b0/f6/d4b0f62f8936a540084d84a0bcd7fe27.gif"/>
-</div>
+
 <div align="center">
   LINK'S
+<img height="110" src="https://i.pinimg.com/originals/d4/b0/f6/d4b0f62f8936a540084d84a0bcd7fe27.gif"/>
+  
 </div>
 
 <div align="center">
